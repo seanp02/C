@@ -1,1 +1,1 @@
-This is my homework submission repository for C programming 1
+This is my homework submission repository for c programming 1
