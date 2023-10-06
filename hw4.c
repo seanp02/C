@@ -2,7 +2,6 @@
 #include <stdio.h>
 int main() {
     int num;
-    int count=2;
     printf("Please enter a number: ");
     scanf("%d", &num);
     if (num == 1)
